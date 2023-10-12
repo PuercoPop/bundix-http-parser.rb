@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    http_parser.rb (0.8.0)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  http_parser.rb
+
+BUNDLED WITH
+   2.4.10
